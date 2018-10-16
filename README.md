@@ -21,3 +21,26 @@ switch(sex){
 case "male": //ALSO RIGHT
 }
 
+create overloaded method for:
+printDetails()
+printDetails(boolean kilograms)
+printDetails(boolean kilograms, boolean uppercase)
+
+All three methods print senetences in teh exact format of:
+
+"Tiger Woods was born in 1975. He weighs 200 pounds and he has an undergraduate degree."
+
+NOTE: use "She" instead of he for females.
+
+NOTE: convert to kilograms for the second overloaded method if ture is passed in.
+
+NOTE: print the names out in UPPERCASE in teh third overlaoded method if ture is passed in; otherwise use all lowercase.
+
+"TIGER WOODS was born in 1975. He weighs 200 pounds and he has an undergraduate degree" or
+
+"tiger woods was born in 1975. He weighs 200 pounds and he has an undergraduate degree" or
+
+"TIGER woods was born in 1975. He weighs 90.9 kilograms and he has an undergraduate degree" or
+
+"tiger woods was born in 1975. He weighs 90.9 kilograms and he has an undergraduate degree."
+
