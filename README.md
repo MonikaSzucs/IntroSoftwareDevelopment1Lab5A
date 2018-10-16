@@ -44,3 +44,16 @@ NOTE: print the names out in UPPERCASE in teh third overlaoded method if ture is
 
 "tiger woods was born in 1975. He weighs 90.9 kilograms and he has an undergraduate degree."
 
+Create another method with signature public void displayAges() which uses a while loop to print the Peron's age in every year of thier life, as follows:
+
+In 1975 Tiger Woods was 0 years old.
+
+In 1976 Tiger Woods was 1 year old. (NOTE: print "year" instead of "years")
+
+In 1977 Tiger Woods was 2 years old.
+
+..
+
+In 2017 Tiger Woods was 42 years old.
+
+In 2018 Tiger Woods is 43 years old (NOTE: print "is" instead of "was")
